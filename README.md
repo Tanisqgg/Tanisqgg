@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanisqgg
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning RPA Citizen devoloper
+- 👀 I’m interested in Computer Science and Data Science
+- 🌱 I’m currently learning Data Analytics for Algorithmic trading
 - 📫  reach me on Linkdin
 
 <!---
