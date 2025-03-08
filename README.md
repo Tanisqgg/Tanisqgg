@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tanisqgg
-- 👀 I’m interested in Computer Science and Data Science
-- 🌱 I’m currently learning Data Analytics for Algorithmic trading
+- 👋 Hi, I’m Tanisq Jawahar
+- 👀 I’m a computer science and data science student at UW with a focus on AI
+- 🌱 I’m currently learning Data Analytics for Algorithmic trading, AI for qc issues in the manufacturing industries
 - 📫  reach me on Linkdin
 
 <!---
